@@ -1,4 +1,4 @@
-# Retail Sales Performance Analysis using Python & Power BI
+# Retail Sales Performance Analysis 
 
 ## Project Overview
 This project focuses on analyzing retail sales data to uncover key insights into revenue drivers, product performance, and seasonal demand trends. The analysis leverages **Python-based Exploratory Data Analysis (EDA)** and **Power BI dashboards** to deliver actionable, data-driven insights for strategic business decisions.
