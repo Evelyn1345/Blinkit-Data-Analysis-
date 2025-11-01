@@ -1,17 +1,31 @@
-# Blinkit-Data-Analysis-
+# Retail Sales Performance Analysis using Python & Power BI
 
-This repository contains the source code and files for a data analysis project focused on the Blinkit online grocery store. The project's goal is to perform a comprehensive analysis of the store's data to derive key business insights and create a professional dashboard for visualization.
+## Project Overview
+This project focuses on analyzing retail sales data to uncover key insights into revenue drivers, product performance, and seasonal demand trends. The analysis leverages **Python-based Exploratory Data Analysis (EDA)** and **Power BI dashboards** to deliver actionable, data-driven insights for strategic business decisions.
 
-Project Objective
-The primary objective of this project is to use data analytics to answer critical business questions and help a retail business make data-driven decisions.
 
-Key Features
-Data Analysis with SQL: Performed in-depth data analysis using both basic and advanced SQL queries.
+## Tech Stack
+- **Programming Language:** Python  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Visualization & Reporting:** Power BI, Excel  
+- **Tools:** Jupyter Notebook / VS Code  
 
-KPI Calculation: Calculated key performance indicators (KPIs) such as total sales, average revenue per sale, total items sold, and the average store rating.
 
-Granular Insights: Analyzed sales data by various factors, including fat content, item type, and individual store outlets, to provide more detailed insights.
+## Objectives
+- Identify **revenue trends**, **profitable products**, and **seasonal sales patterns**.  
+- Build automated **data-preprocessing pipelines** to clean and aggregate sales data efficiently.  
+- Create **interactive dashboards** in Power BI to visualize key performance indicators (KPIs).  
 
-Relational Database: The project was developed on MS SQL Server, but the SQL queries are compatible with other relational databases like MySQL, PostgreSQL, and Oracle.
 
-Data Visualization: The project includes a data visualization dashboard created with Power BI, designed to present complex data in an easily digestible format.
+## Key Features
+-  End-to-end **Exploratory Data Analysis (EDA)** using Python  
+-  Automated **data cleaning and transformation workflows**  
+-  **Power BI dashboards** for KPIs such as Total Revenue, Profit Margin, and Regional Sales Performance  
+-  Enhanced business intelligence through **data-driven insights**
+
+
+##  Insights Derived
+- Identified high-performing product categories and underperforming regions.  
+- Detected seasonal spikes in sales and correlated them with discount strategies.  
+- Delivered data-backed recommendations to improve revenue forecasting accuracy.  
+
